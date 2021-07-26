@@ -4,7 +4,7 @@
 
 I've dug into docs, trial and errored, or cobbled together something using tutorials and stackoverflow if it's listed below.
 
-## [Powershell](/Powershell/)
+## Powershell
 
 - Installing on AWS EC2 
 - Piping commands 

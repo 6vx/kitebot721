@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>dmx</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/dmx",
+						query: new URLSearchParams(""),
+						params: {"entry":"dmx"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="dmx">dmx</h1>
+<p>This is a hobby/personal-use website rewrite with the goal of fully detaching all the major elements.</p>
+<p>I feel like a lot of the websites that I discarded along the way were disposed of so because I made them monolithic. </p>
+<p>Now the goal is to not let that happen again. I&#39;ve heard the word &#39;agile&#39; used in tech a lot and, while I don&#39;t remember what it means right now, I know that having your data managent, data storage, front end, build and content all split apart makes me feel very agile.</p>
+<p>When imagined so, and built with this ideal in mind, changing any one piece is no longer a herculean task with many headaches.</p>
+<p>Ideally my front end is a composition of a completely separate static front end. It will be fed by a CMS made up of a server (node) running in the cloud (ssl ec2 managed by elastic beanstalk) that interacts with Cloud Firestore (Google&#39;s cloud hosted no-SQL database). </p>
+<p>I&#39;m mixing these services because I have credits on AWS and have used it to manage domains/routes/servers/functions for years. The Firestore docs are just so nice, I can&#39;t help but use it. I&#39;m trying to really keep the read/write low though by...</p>
+<p>Preloading with svelte. This is the new way that you get that Sapper-y goodness. If there&#39;s a link, at least. I haven&#39;t figured out yet how to assign a parameter to be built programmatically yet without actually making an &#39;a&#39; tag for each one on a hidden component. </p>
+<p>THERE&#39;S GOT TO BE A BETTER WAY! BUT SINCE IT DOESN&#39;T MATTER I&#39;ll move on. </p>
+<p>Svelte is meant to just be that last blip on the screen from json to your eyeballs. I don&#39;t want to do a lot of magic here. I want a lightweight client that can keep track of a session and maybe pick up a notification, that&#39;s it. The rest should be separated into the last component. </p>
+<p>The smart build. I realize now that the build step is really where the action is. You can separate your data and make your front end nice and static, but unless you&#39;re doing this step right, none of that&#39;s gonna matter. </p>
+<p>I&#39;ve generally used whatever the cheapest t2x ec2 instance with rclone in the past to keep things in sync across providers (ie clone your OneDrive to an S3 bucket, or keep a folder in sync across Google drive and dropbox, etc) but I discovered lambda layers while setting it up this time. I haven&#39;t tried to implement it yet but it&#39;s an obvious project for a lambda that anyone could benefit from. Putting that on a cron schedule instead of running a microservice seems like a no brainer. </p>
+<p>The separate parts then are:</p>
+<ul>
+<li>mobility first components and styling</li>
+<li>minimal lightweight prebuilt static cdn deploy</li>
+<li> build step with batched cms/db/api calls</li>
+<li>cloud managed (revisit this to make it a lambda!) storage </li>
+</ul>
+<p>Some stuff I encountered that I hadn&#39;t before while setting this up:</p>
+<ul>
+<li>lambda layers (very exciting) </li>
+<li>applying certificates to lambda layers </li>
+<li>rclone nodejs</li>
+<li>svelte kit preload</li>
+<li>svelte kit prefetch </li>
+<li>elastic beanstalk configuration</li>
+<li>how to have a bad time with service workers</li>
+</ul>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

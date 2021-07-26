@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>sveltekittest</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/sveltekittest",
+						query: new URLSearchParams(""),
+						params: {"entry":"sveltekittest"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="svelte-kit-test">Svelte Kit Test</h1>
+<h3 id="adapter-update">Adapter update</h3>
+<pre><code>npm i -D @sveltejs/adapter-static@next 
+</code></pre>
+<p>This was required to get on the correct deployment method. Initially was on incorrect adapter branch. </p>
+<h3 id="vite-markdown"><a href="https://www.npmjs.com/package/@dansvel/vite-plugin-markdown">Vite Markdown</a></h3>
+<pre><code>npm i @dansvel/vite-plugin-markdown --save-dev
+</code></pre>
+<p>This lets me read markdown files with the new Vite preprocessor. </p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>chocolatey</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/chocolatey",
+						query: new URLSearchParams(""),
+						params: {"entry":"chocolatey"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="chocolatey">Chocolatey</h1>
+<h2 id="a-windows-package-manager">a windows package manager</h2>
+<p>I use choco to update as many things as I can. </p>
+<p>I can update node using the following, for example:</p>
+<pre><code>choco upgrade nodejs -y
+</code></pre>
+<p>Here&#39;s the script I typically run after reinstalling windows:</p>
+<pre><code>notepad .\chocolatey.ps1
+# Setting the permissions and install chocolatey must be done separately using the next command.
+# Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString(&#39;https://chocolatey.org/install.ps1&#39;))
+
+# To check your current installs use &#39;choco list -localonly&#39;
+
+choco install adobereader -y
+choco install audacity -y
+choco install calibre -y
+# choco install discord -y
+choco install git -y
+choco install nodejs -y
+choco install deno -y
+choco install notepadplusplus -y
+choco install qbittorrent -y
+choco install powershell-core -y
+choco install telegram -y
+choco install vlc -y
+choco install vscode -y
+choco install dotnet -y
+choco install steam-client -y
+# choco install ffmpeg -y
+choco install 7zip -y
+choco install tor-browser -y
+# choco install session -y
+# choco install inkscape -y
+choco install youtube-dl -y
+# choco install microsoft-teams.install -y
+</code></pre>
+<p>I&#39;ve got a few commented out since they&#39;ve fallen into disuse, but I wanted to leave them in there for when I inevitably go to dig them up again. </p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

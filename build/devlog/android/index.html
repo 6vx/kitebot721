@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>android</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/android",
+						query: new URLSearchParams(""),
+						params: {"entry":"android"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="android-and-me">Android and Me</h1>
+<h2 id="how-i-use-my-phone">How I use my phone</h2>
+<p>I need to edit anything on my site easily and make/adjust pages and widgets instantly.</p>
+<p>OneSync maintains all my file syncing from phone to OneDrive. Once it&#39;s there I use RCLONE to handle the second move, usually to an AWS S3 bucket or a copy push build deploy workflow. </p>
+<p>Text is handled as Markdown files by lightweight app Writer Plus. It&#39;s fantastically light, offline, no ads, dark mode, constantly saving. It&#39;s great. </p>
+<p>Audio is now handled off-phone! YAY! But I can connect my Sony Icd-Ux570 to the phones USB c port and autosync to OneDrive as well. </p>
+<p>I still have the watch recorder syncing to the phone over Bluetooth and then onesync sends it to OneDrive. </p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

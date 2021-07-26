@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>timelapsecalculator</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/timelapsecalculator",
+						query: new URLSearchParams(""),
+						params: {"entry":"timelapsecalculator"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="basic-tim-app">Basic Tim App</h1>
+<h2 id="standard-setup">Standard Setup</h2>
+<p>I generally grab the default svelte template, set up a github repo for it and connect that to an AWS Amplify project.</p>
+<p>This setup means that every commit will be registered by Amplify and trigger a build and deploy automatically.</p>
+<p>Something special this time, though, will be a script on dev machine that grabs the most recent versions of appropriate static assets and copies them into the project folder <strong>before pushing to github.</strong></p>
+<blockquote>
+<h3 id="why-push-the-static-files-to-github">Why push the static files to github</h3>
+<p>I want to try this pattern instead of fetching during build because I don&#39;t want to have to manage a remote store of files. </p>
+<p>I&#39;ve done that before by keeping an rclone script running on an hourly cron job on an ec2 micro instance, keeping the files in sync with my devices and available to the build server. While technically this is a cool and probably better way for a larger or more complex project, it&#39;s hardly minimalist. Also, it&#39;s hardly in the spirit of &quot;serverless.&quot;</p>
+</blockquote>
+<h2 id="time-lapse-logic">Time-lapse Logic</h2>
+<p>There are a few main settings to account for, and I&#39;ve already written out the math I need to keep track of. </p>
+<ol>
+<li>Frame Recording Rate</li>
+<li>Frame Capture Interval</li>
+<li>Capture Duration</li>
+<li>Timelapse Duration</li>
+</ol>
+<p>So, if you capture for five minutes with a camera that is capturing 1 frame every 2 seconds, and is recording that as a framerate of 30 frames per second, you get a timelapse duration of 5 seconds. </p>
+<pre><code>(60s*5m) / ((2 seconds per frame)*(30 frames per second))
+
+300 / 60 = 5
+</code></pre>
+<h2 id="app-ui">App UI</h2>
+<p>I want a bit of a &quot;classic calculator&quot; look to this, since that is what it is. </p>
+<p>Instead of having all sorts of numbers and buttons, though, I want my input to consist of selectors. </p>
+<p>There should be an obvious row of selections for FPS, and when you select one it remains highlighted. </p>
+<p>When changes have been made but not recalculated, the &quot;ENTER&quot; button or something should light up, to make it clear that you need to enter your selections and get a new result. </p>
+<p>I&#39;d like basic tweening and fading to make changing between options a more tactile, responsive experience. </p>
+<h2 id="deployment-and-use">Deployment and Use</h2>
+<p>I want this to all be contained in a single component for easy use, backup, etc. </p>
+<p>I&#39;ll deploy as a standalone app example, and also as a clickable object within my portfolio. Since I expect the file to be exceedingly small, I&#39;ll likely back it up in a components folder alongside my other static assets I keep synced to my phone/tablet/PC. </p>
+<h2 id="thoughts">Thoughts</h2>
+<p>I think that something simple like this is more a piece of evidence that I can make UI, than that I can make an app. This isn&#39;t terribly complex. </p>
+<p>Therefore the UI must shine. If that&#39;s all this represents, make sure that it is representative of YOUR work. It should espouse YOUR sensibilities, not the google material UI spec, not some CSS library spec, none of that. This is me on a page. </p>
+<h2 id="building">Building</h2>
+<p>Just placed all the info I wanted onto the page first thing. It&#39;s one component. </p>
+<p>I set some basic CSS fonts (I love monospace) and colours. Removed some old comments and tightened up the algorithm I was using. </p>
+<p>Tested to make sure it&#39;s working with some console.log() action, now going to do first commit.</p>
+<p>Commit was fine, connected repo to amplify and changed the build script to contain the correct build directory (public). Deployed first try, checked to make sure was looking fine on mobile. Does.</p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

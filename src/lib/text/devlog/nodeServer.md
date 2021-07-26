@@ -1,9 +1,3 @@
----
-title: nodeServer
-date: 07012021
-tags: express, node, javascript, ESM
----
-
 # Notes
 
 - I like importing better than requiring

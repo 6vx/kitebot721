@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>refactoring</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/refactoring",
+						query: new URLSearchParams(""),
+						params: {"entry":"refactoring"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h1 id="17-months-later">17 months later</h1>
+<p>This is the biggest gap I&#39;ve ever gone back to retrieve something I&#39;ve made before. </p>
+<p>Generally, I&#39;d just write something new, or start over, but I knew that I&#39;d done at least a bit of grunt work and figured it would be... recoverable. </p>
+<p>Digging through the 20+ javascript files figuring out which were essential was the first task. Luckily only half a dozen remained in the root of the project, the others squirreled away inside an aptly named &#39;scriptsalongtheway&#39; folder. </p>
+<p>From the imports I figured out what data sets I&#39;d need to reconstruct this, I&#39;d apparently learned how to put my ./data folder on gitignore. Smart, kinda. Frustrating now. </p>
+<p>The dataset&#39;s creator is proudly trumpeting v4 when I arrive at the website. I groan, and download while checking the notes to see, indeed, that &quot;v3 is now fully deprecated and (stuff I want) can be found in a new place!&quot;</p>
+<p>The 130+MB JSON file downloads. I run my 17 month old script. It fails. </p>
+<p>Once again i&#39;m working with a dataset that crashes my editor when I look at it too long, and I&#39;m just trying to get up and running with that to mash it into my other 200,000 entry dictionary and make them compare millions of times. My 2012 i7 weeps softly.</p>
+<p>I refactor one script, it executes. On to another. I retrieve the acoompanying data. It executes... but somethings different. </p>
+<p>Perusing the code I discover I had no fucking idea how to work with Objects. I quickly rewrite key sections. It&#39;s <strong>actually better</strong> now. </p>
+<p>With fresh eyes and a little pain on my computer&#39;s part (I came back from my bikeride to realize I&#39;d need to redo it with a small adjustment, sorry PC!) we managed to take this shoddy old crap and turn it into something... adequate. Almost. </p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>

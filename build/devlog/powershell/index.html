@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>powershell</title>
+
+		
+
+		<link rel="modulepreload" href="/./_app/start-82e91e5a.js">
+		<link rel="modulepreload" href="/./_app/chunks/vendor-fa42b21d.js">
+		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-69bcbfda.js">
+		<link rel="modulepreload" href="/./_app/pages/devlog/[entry].svelte-40dbc9f8.js">
+		<link rel="modulepreload" href="/./_app/chunks/_entries-80463ca6.js">
+		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-8eb5bbcc.css">
+
+		<script type="module">
+			import { start } from "/./_app/start-82e91e5a.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":"/."},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/./_app/pages/__layout.svelte-69bcbfda.js"),
+						import("/./_app/pages/devlog/[entry].svelte-40dbc9f8.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "/devlog/powershell",
+						query: new URLSearchParams(""),
+						params: {"entry":"powershell"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<p>kite<a href="/">bot</a> - <span class="svelte-1j8uy2x"><a href="/info">info</a> <a href="/devlog">devlog</a></span></p>
+<br>
+
+
+
+<div class=""><div class=""><!-- HTML_TAG_START --><h2 id="powershell">Powershell</h2>
+<ul>
+<li>Installing on AWS EC2 </li>
+<li>Piping commands </li>
+<li>Copying/Backing up between remote and local sources</li>
+<li>Scheduling/privileges troubleshooting in Linux CRON and Windows </li>
+<li>Checking directories for attributes, copying and creating files/permissions on a schedule</li>
+</ul>
+<h1 id="daily-script">Daily Script</h1>
+<h2 id="draw-every-day">Draw every day</h2>
+<p>I had the revelation that I&#39;d draw every day if I got the Surface GO. I didn&#39;t. </p>
+<p>Then I decided surely I&#39;d draw every day if I opened my computer to a brand new canvas every day, ready to be doodled upon in even the most lazy attempt at art. </p>
+<p>Enter: Powershell. I made a set of blank, root files for my &quot;canvas.leo&quot; and a daily &quot;journal .md&quot; and this script, after some wrangling, ended up being executed by the windows scheduler somewhat reliably. </p>
+<p>Enter: RCLONE/EC2/BASH. &quot;Somewhat reliably&quot; wasn&#39;t good enough. If I turned my computer on later in the day, sometimes it would take a while to execute. Such troublesome behaviour was getting in the way of my zen art habit. </p>
+<p>Instead, I&#39;d perform this &quot;daily script&quot; in the cloud on a CRONJOB on an EC2 MICRO instance, and then use RCLONE to sync between my ONEDRIVE account and the local files on the EC2. This was better. </p>
+<h2 id="draw-sometimes-conveniently">Draw Sometimes, Conveniently</h2>
+<h3 id="and-do-other-things-too">And do other things, too!</h3>
+<p>Of course, in the end, I didn&#39;t want to draw every day. And relying on a cloud instance to fuel this unusual behaviour was sort of against my &quot;less is more&quot; philosophy when it comes to tech. </p>
+<p>So now my customized Powershell 7 profile just has a script (synced to the cloud of course) that, when the mood strikes, allows me to type &quot;Draw&quot; into the terminal at any time to open a correctly dated &quot;timestamp.leo&quot; infinite canvas to doodle on. </p>
+<p>Some other common patterns are immortalized as well, such as a script to update a github repo with a timestamped commit message, or to split a projects Terminal window in 3 with a remote TMUX session, a local server and a command line all in one. </p>
+<h2 id="feelings">Feelings</h2>
+<p>Powershell is fun. I would be happy to have more excuses to fiddle with it. </p>
+<!-- HTML_TAG_END --></div>
+</div>
+
+
+
+	
+</div>
+	</body>
+</html>
