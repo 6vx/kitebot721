@@ -1,0 +1,9 @@
+:root {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+a {
+    color: pink;
+    text-decoration: none;
+}

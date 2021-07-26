@@ -1,38 +1,26 @@
-# create-svelte
+# Kitebot 721
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+New svelte package, new understanding of endpoints, new implementation of Kitebot. 
 
-## Creating a project
+-Tim
 
-If you're seeing this, you've probably already done this step. Congrats!
+## July 2021
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+- Add static adapter
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+    npm i -D @sveltejs/adapter-static@next
+    https://github.com/sveltejs/kit/tree/master/packages/adapter-static
 
-> Note: the `@next` is temporary
+- Add layout and persistence
 
-## Developing
+    create __layout.svelte
+    npm i svelte-local-storage-store
+    create lib/scripts/localStore
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- Add fileOperations Powershell script
 
-```bash
-npm run dev
+    I stole it from my last site, dmx.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- Add marked for parsing markdown files
 
-## Building
-
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
-
-```bash
-npm run build
-```
-
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+    https://marked.js.org/
