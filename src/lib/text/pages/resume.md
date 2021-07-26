@@ -1,5 +1,7 @@
 # Tim Godin
 
+tim@kitebot.ca / 289-999-2320
+
 ## Education
 
 ### Athabasca University
