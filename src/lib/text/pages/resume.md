@@ -73,14 +73,27 @@
 ### Appliance Installer at Docker
 #### Kelowna BC - 2017-2018
 
+- Safely transport appliances on 5-ton trucks
+- Lift and maneuver heavy loads up and down tight staircases, confined spaces, construction sites, with various restrictions
+- Installed and tested appliances quickly and effectively
+- Kept detailed notes for cost, liability purposes
+
 ### Driver at Kelowna Express
 #### Kelowna BC - 2016-2017
+
+- Carried out detailed daily vehicle inspections
+- Made efforts to build relationships with customers and represent a new local brand
 
 ### Inventory Specialist at WIS
 #### Cranbrook BC - 2016
 
 ### Customer Service at Lowe's 
 #### Sarnia ON - 2011-2012
+
+- Participated in new store setup and grand opening
+- Sales experience, designing custom cabinetry installations and assembling quotes for customers
+- Accountable for transactions, sales, inventory maintenance
+- Operated forklifts, balers, compactors and pump trucks
 
 ### Inbound Sales at Geek Squad/NCO
 #### Sarnia ON - 2007-2009
@@ -110,3 +123,7 @@
 - Kidsfest volunteer
 - Member of Bayer/Lanxess community advisory panel
 - Poll clerk at municipal elections
+
+---
+
+### References available upon request
