@@ -8,8 +8,6 @@
     <div class="">
         <a href="/devlog/{entry.url}">{entry.title}</a>
     </div>           
-    <br>
-    <br>
     {/each}
 </div>
 

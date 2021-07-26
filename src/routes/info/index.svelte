@@ -8,11 +8,6 @@
     <div class="">
         <a href="/info/{entry.url}">{entry.title}</a>
     </div>
-    
-    <!-- <div>{@html snarkdown(entry.markdown)}</div> -->
-            
-    <br>
-    <br>
     {/each}
 </div>
 
