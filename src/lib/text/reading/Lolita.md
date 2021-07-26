@@ -1,3 +1,6 @@
 # Lolita
+## 5/5
 
-That was something. And how quickly do you update? 
+One of the best books I've ever read. Hauntingly beautiful. The prose shockingly good.
+
+Recommend to anyone. 

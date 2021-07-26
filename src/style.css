@@ -23,6 +23,8 @@ pre {
     border-right: 0.2rem outset pink;
     box-shadow: 0 0 0 0.1rem rgb(71, 51, 54);
     border-radius: 1em 2em 2em 1em;
+    max-width: 90vw;
+    overflow-wrap: break-word;
 }
 
 blockquote {
