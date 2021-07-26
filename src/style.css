@@ -2,7 +2,15 @@
     font-family: monospace;
     background-color: rgb(24, 24, 24);
     color: white;
+    align-content: center;
+    justify-content: space-around;
+    display: flex;
 }
+body {
+    flex: auto;
+    max-width: 750px;
+}
+
 a {
     color: pink;
     text-decoration: none;
@@ -14,5 +22,16 @@ pre {
     color: rgb(175, 175, 175);
     border: 0.1rem outset pink;
     box-shadow: 0 0 0 0.1rem rgb(71, 51, 54)
+}
+
+blockquote {
+    border-left: 0.2rem outset pink;
+    border-radius: 2em 2em 2em 2em;
+    background-color: rgb(39, 39, 39);
+    color: rgb(175, 175, 175);
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    max-width: 50vw;
+    box-shadow: 0 0 0 0.2rem rgb(20, 20, 20)
 }
 

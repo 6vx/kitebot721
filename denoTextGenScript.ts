@@ -23,7 +23,6 @@ for (const dirEntry of Deno.readDirSync("./src/lib/text")) {
 let pagesDocs:Array<Object> = []
 let devlogDocs:Array<Object> = []
 let pagesDir = './src/lib/text/pages'
-
 for (const entry of walkSync(pagesDir)) {
     console.log(entry.path);
     let entryTitle = (entry.path.slice(pagesDir.length - 1)).slice(0,-3)
@@ -32,7 +31,7 @@ for (const entry of walkSync(pagesDir)) {
     
     if (entryTitle.length > 1) {
       let entryTitlePushObject = {path:"",title:"",markdown:"",url:"",html:""}
-        entryTitlePushObject.title = entryTitle
+        entryTitlePushObject.title = entryTitle.toLowerCase()
         entryTitlePushObject.path = entry.path
         entryTitlePushObject.url = entryTitleUrl
         entryTitlePushObject.markdown = Deno.readTextFileSync(entry.path)
@@ -49,7 +48,7 @@ for (const entry of walkSync(devlogDir)) {
     
     if (entryTitle.length > 1) {
       let entryTitlePushObject = {path:"",title:"",markdown:"",url:"",html:""}
-        entryTitlePushObject.title = entryTitle
+        entryTitlePushObject.title = entryTitle.toLowerCase()
         entryTitlePushObject.path = entry.path
         entryTitlePushObject.url = entryTitleUrl
         entryTitlePushObject.markdown = Deno.readTextFileSync(entry.path)

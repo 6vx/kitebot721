@@ -22,22 +22,22 @@ tim@kitebot.ca / 825-561-4854
 ### General Manager at FMI Business Group
 #### Sarnia ON - 2008-2016
 
-- Ensures prompt, friendly service according to company guidelines.
-- Directs overall activities and performance of hourly staff.
-- Handles verbal guest complaints immediately, and refers verbal and written complaints to the General Manager.
-- Monitors and maintains adequate food and beverage inventories.
-- Teaches and enforces alcohol awareness. Builds a positive relationship with local authorities by seeking their assistance in alcohol related issues.
-- Assures the compliance with the local, provincial and federal laws, regulations and guidelines.
-- Ensures timely product preparation and presentation meets company standards. Ensures product preparation meets sales volume by use of daily line checks.
-- Ensures maintenance of restaurant cleanliness and sanitation according to company guidelines and government standards.
-- Completes daily reports and documents on a timely basis.
-- Schedules staffing in an effective manner ensuring sales volume and service levels.
-- Ensures the adherence of all cash handling procedures.
-- Directs hiring, assignment, training, motivation, evaluation, promotions, discipline, and termination of restaurant personnel.
-- Maintains effective safety and security programs according to company policy and government.
-- Communicates effectively with other management staff.
-- Keeps abreast with all relative computer application, forms and spreadsheets.
-- Completes all other assigned duties and responsibilities.
+- Ensuring prompt, friendly service according to company guidelines.
+- Directing overall activities and performance of hourly staff.
+- Handling verbal guest complaints immediately
+- Monitoring and maintaining adequate food and beverage inventories.
+- Teaching and enforcing alcohol awareness. Building a positive relationship with local authorities by seeking their assistance in alcohol related issues.
+- Assuring the compliance with the local, provincial and federal laws, regulations and guidelines.
+- Ensuring timely product preparation and presentation meets company standards. Ensures product preparation meets sales volume by use of daily line checks.
+- Ensuring maintenance of restaurant cleanliness and sanitation according to company guidelines and government standards.
+- Completing daily reports and documents on a timely basis.
+- Scheduling staff in an effective manner ensuring sales volume and service levels.
+- Ensuring the adherence of all cash handling procedures.
+- Directing hiring, assignment, training, motivation, evaluation, promotions, discipline, and termination of restaurant personnel.
+- Maintaining effective safety and security programs according to company policy and government.
+- Communicating effectively with other management staff.
+- Keeping abreast with all relative computer application, forms and spreadsheets.
+- Completing all other assigned duties and responsibilities.
 
 ### Webdev at Kitebot
 #### Calgary AB - 2016-Now
@@ -75,16 +75,16 @@ tim@kitebot.ca / 825-561-4854
 ### Appliance Installer at Docker
 #### Kelowna BC - 2017-2018
 
-- Safely transport appliances on 5-ton trucks
-- Lift and maneuver heavy loads up and down tight staircases, confined spaces, construction sites, with various restrictions
-- Installed and tested appliances quickly and effectively
-- Kept detailed notes for cost, liability purposes
+- Safely transporting appliances on 5-ton trucks
+- Lifting and maneuvering heavy loads up and down tight staircases, confined spaces, construction sites, with various restrictions
+- Installing and testing appliances quickly and effectively
+- Keeping detailed notes for cost, liability purposes
 
 ### Driver at Kelowna Express
 #### Kelowna BC - 2016-2017
 
-- Carried out detailed daily vehicle inspections
-- Made efforts to build relationships with customers and represent a new local brand
+- Carrying out detailed daily vehicle inspections
+- Making efforts to build relationships with customers and represent a new local brand
 
 ### Inventory Specialist at WIS
 #### Cranbrook BC - 2016
@@ -95,7 +95,7 @@ tim@kitebot.ca / 825-561-4854
 - Participated in new store setup and grand opening
 - Sales experience, designing custom cabinetry installations and assembling quotes for customers
 - Accountable for transactions, sales, inventory maintenance
-- Operated forklifts, balers, compactors and pump trucks
+- Operating forklifts, balers, compactors and pump trucks
 
 ### Inbound Sales at Geek Squad/NCO
 #### Sarnia ON - 2007-2009
