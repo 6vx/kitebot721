@@ -1,4 +1,4 @@
-## Powershell
+## summary
 
 - Installing on AWS EC2 
 - Piping commands 

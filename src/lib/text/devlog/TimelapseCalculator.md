@@ -1,4 +1,4 @@
-# Basic Tim App
+# basic app
 
 ## Standard Setup
 

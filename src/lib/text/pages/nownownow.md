@@ -1,12 +1,12 @@
 # nownownow
  
-## What Am I Doing Right Now?
+## what am I doing right now?
  
 I'm tweaking my website, trying to find the happy balance of dev experience, productivity and cost effectiveness. 
  
 - 7/1/2021
  
-### SHORT SHORT Term (2021)
+### short term (2021)
  
 - Magic Morning Adventures
 - Start classes July 5th ;) 

@@ -1,6 +1,6 @@
-# Some Janky Bits
+# retired webapps
 
-Listing some rando crap I've deployed just so I can zip to it quickly. I wouldn't consider anything here finished or good, just for my own reference. 
+Listing some rando jank I've deployed just so I can zip to it quickly. I wouldn't consider anything here finished or good, this is just for my own reference. 
 
 ## [Timelapse Calculator](https://metta.d3l112fu2xzrtu.amplifyapp.com/)
 ### Svelte, AWS Amplify

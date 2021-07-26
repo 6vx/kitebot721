@@ -1,8 +1,10 @@
-# Tim's Tech
+# stuff I'm familiar with
 
-## Stuff I'm familiar with
+## Svelte/Kit
 
-I've dug into docs, trial and errored, or cobbled together something using tutorials and stackoverflow if it's listed below.
+- Static webapp deployments using adapters, CICD patterns and webhook initiated builds
+- Coding/testing/troubleshooting reactivity locally and in async/await API consuming patterns
+- I don't... think I'll ever use anything else if I can help it
 
 ## Powershell
 

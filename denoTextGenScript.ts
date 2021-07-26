@@ -14,13 +14,15 @@ for (const dirEntry of Deno.readDirSync("./src/lib/text")) {
 
 
 
+
+// Below works and is fine if I want to repeat myself a lot. 
+// Better to leave it for now and maybe figure out how to 
+// get a better system later. You gotta sleep sometime bud.
+
+
 let pagesDocs:Array<Object> = []
 let devlogDocs:Array<Object> = []
 let pagesDir = './src/lib/text/pages'
-
-
-
-
 
 for (const entry of walkSync(pagesDir)) {
     console.log(entry.path);

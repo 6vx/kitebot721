@@ -1,4 +1,4 @@
-# Android and Me
+# android
 
 ## How I use my phone
 

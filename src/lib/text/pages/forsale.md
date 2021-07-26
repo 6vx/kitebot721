@@ -1,6 +1,6 @@
-# For Sale
-## Everything has a price (CAD)
-### Buyer picks up or pays shipping
+# for sale
+## everything has a price (CAD)
+### buyer picks up or pays shipping
 - Surface Go 64gb w/Keyboard & Stylus - 500
 - HP Desktop i7, 16gb RAM, 500gb SSD, GTX 1650 - 500
 - 4k HDR Monitor - 500
