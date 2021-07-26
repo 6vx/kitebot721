@@ -1,5 +1,1 @@
-<div>
-    Welcome. 
-
-    Looking to take on short term, remote work, preference to typescript and svelte projects. 
-</div>
+<div>Welcome. Looking to take on short term, remote work contracts. Preference to svelte/typescript projects.</div>

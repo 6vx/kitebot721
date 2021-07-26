@@ -1,13 +1,13 @@
 # contact
 
-## email (preferred)
+### email (preferred)
 tim@kitebot.ca
 
-## voicemail 
+### voicemail 
 [289-999-2320](tel:2899992320)
 
-## github
+### github
 [6vx](https://github.com/6vx)
 
-## linkedIn
+### linkedIn
 [godini](https://www.linkedin.com/in/godini/)

@@ -1,13 +1,6 @@
 # quotes
 
-### some words that caught my ear
-
-> There has never been peace without first a great suffering, the greater the suffering, the greater the peace.
->   
-> **J.Lark**
->  
-> *A villainous line, or something true?* 
-> *Does not the acquisition of true empathy require personal suffering?*
+### selection of words that caught my ear
  
 > How can one who was once so holy fall so far from righteousness?
 >  
@@ -24,8 +17,13 @@
 > **E.Hunt**
 >  
 > *I remember walking to G-main one cold night realizing that I was an inevitable expression of the universe.*
+
+> There has never been peace without first a great suffering, the greater the suffering, the greater the peace.
+>   
+> **J.Lark**
 >  
-> *Sun, storm, warrior, a syzygy: corona, light, aura.*
+> *A villainous line, or something true?* 
+> *Does not the acquisition of true empathy require personal suffering?*
  
 > If it be now, 'tis not to come:,
 >
@@ -91,7 +89,7 @@
  
 > I would rather live in chaos than a world controlled by you.
 > 
-> **C.Nichols  *  
+> **C.Nichols**  
 >  
 > *Denying one's illusion invites conflict* 
  

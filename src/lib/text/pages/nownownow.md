@@ -8,7 +8,6 @@ I'm tweaking my website, trying to find the happy balance of dev experience, pro
  
 ### short term (2021)
  
-- Magic Morning Adventures
 - Athabasca U coursework
 - Workworkwork2021-2024
     
@@ -20,6 +19,6 @@ I'm tweaking my website, trying to find the happy balance of dev experience, pro
  
 ### long term (t+3-6yr)
  
-- Bilingual
-- Living/working in Korea
-- More school 
+- be bilingual
+- living/working in Korea
+- more school 
