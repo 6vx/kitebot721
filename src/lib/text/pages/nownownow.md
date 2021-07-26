@@ -9,7 +9,7 @@ I'm tweaking my website, trying to find the happy balance of dev experience, pro
 ### short term (2021)
  
 - Magic Morning Adventures
-- Start classes July 5th ;) 
+- Athabasca U coursework
 - Workworkwork2021-2024
     
 ### medium term (t+2-3yr)
