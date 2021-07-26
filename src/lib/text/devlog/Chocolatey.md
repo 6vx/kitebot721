@@ -11,9 +11,11 @@ I can update node using the following, for example:
 Here's the script I typically run after reinstalling windows:
 
     notepad .\chocolatey.ps1
-    # Setting the permissions and install chocolatey must be done
+    # Setting the permissions and install 
+    # chocolatey must be done
     # separately using the next command.
-    # To check your current installs use 'choco list -localonly'
+    # To check your current installs use 
+    # 'choco list -localonly'
 
     choco install adobereader -y
     choco install audacity -y
