@@ -1,6 +1,6 @@
 # Tim Godin
 
-tim@kitebot.ca / 289-999-2320
+tim@kitebot.ca / 825-561-4854
 
 ## Education
 
@@ -42,8 +42,8 @@ tim@kitebot.ca / 289-999-2320
 ### Webdev at Kitebot
 #### Calgary AB - 2016-Now
 
-- Moderate experience with Web/HTML/CSS/JS/TS/Svelte/CICD/AWS/Git/Powershell/PlayFab/Firebase
-- Some experience with Azure/Vue/Deno/Express/Bash/Android/WindowsPhone
+- Moderate experience with Web/HTML/CSS/JS/TS Svelte/CICD/AWS/Git/PowerShell PlayFab/Firebase
+- Some experience with Azure/Vue/Deno/Express Bash/Android/WindowsPhone
 - Deploying and maintaining apps on the Web, Alexa and more using popular cloud services including Amazon Web Services and Google Cloud
 - Creating advertising and sales materials using Adobe Photoshop
 - Using Typescript/Javascript and popular frontend frameworks like Svelte and Vue
