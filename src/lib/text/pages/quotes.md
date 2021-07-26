@@ -1,5 +1,7 @@
 # quotes
 
+### some words that caught my ear
+
 > There has never been peace without first a great suffering, the greater the suffering, the greater the peace.
 >   
 > **J.Lark**
@@ -18,7 +20,7 @@
 > And the warrior whispers back?
 >
 >  I am the storm.
-> 
+  >  
 > **E.Hunt**
 >  
 > *I remember walking to G-main one cold night realizing that I was an inevitable expression of the universe.*
@@ -51,7 +53,7 @@
 > 
 > **Seraph**
  
-> Choice is an illusion created between those with power, and those without.
+> Choice is an illusion created between those with power, and those   w  thout.
 > 
 > **Merovingian**
  
@@ -89,7 +91,7 @@
  
 > I would rather live in chaos than a world controlled by you.
 > 
-> **C.Nichols**
+> **C.Nichols  *  
 >  
 > *Denying one's illusion invites conflict* 
  
@@ -135,7 +137,7 @@
 >  
 > *Minimalism in fitness* 
  
-> Death is lighter than a feather. Duty, heavier than a mountain.
+> Death is lighter   t  an a feather. Duty, heavier than a mountain.
 > 
 > **L.Mandragoran**
 >  

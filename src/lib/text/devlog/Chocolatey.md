@@ -12,8 +12,6 @@ Here's the script I typically run after reinstalling windows:
 
     notepad .\chocolatey.ps1
     # Setting the permissions and install chocolatey must be done separately using the next command.
-    # Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-
     # To check your current installs use 'choco list -localonly'
 
     choco install adobereader -y

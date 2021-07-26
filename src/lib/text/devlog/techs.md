@@ -19,6 +19,7 @@
 - Managing large JSON i/o 
 - Comparing values
 - Request usage
+- Interacting with APIs
 
 ## AWS
 
@@ -27,7 +28,7 @@
 - Managing multiple domain configurations
 - Deploying server/serverless solutions
   - Lambda functions
-  - EC2 Servers
+  - EC2 Servers/Beanstalk deployments
   - Github to Amplify CI/CD Workflows
 
 ## Github
@@ -42,8 +43,8 @@
   - Posters
   - Ads
   - Logos
-- Fixing photographs
-- Exporting for Printing
+- Fixing/editing photographs
+- Exporting for commercial printing
 
 ## Davinci Resolve
 

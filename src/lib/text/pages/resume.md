@@ -114,11 +114,12 @@ tim@kitebot.ca / 825-561-4854
 
 ## Skills
 
+- MS Office
 - Javascript
 - Communication
 - Sales
 - Creativity
-- Versatile
+- Versatility
 
 ## Community Involvement
 
