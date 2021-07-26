@@ -1,9 +1,18 @@
 :root {
     font-family: monospace;
-    background-color: black;
+    background-color: rgb(24, 24, 24);
     color: white;
 }
 a {
     color: pink;
     text-decoration: none;
 }
+pre {
+    margin: 5px 5px 5px 5px;
+    padding-left: 50px;
+    background-color: black;
+    color: rgb(175, 175, 175);
+    border: 0.1rem outset pink;
+    box-shadow: 0 0 0 0.1rem rgb(71, 51, 54)
+}
+
