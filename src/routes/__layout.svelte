@@ -11,7 +11,6 @@
 
 <p>kite<a href="/">Bot</a>/tim<a href="/info/about">Godin</a></p>
 <p><span><a href="/info/resume">resume</a> - <a href="/info">info</a> - <a href="/devlog">devlog</a></span></p>
-<br>
 <slot></slot>
 
 <style>
