@@ -135,7 +135,7 @@
 >  
 > *Minimalism in fitness* 
  
-> Death is lighter   t  an a feather. Duty, heavier than a mountain.
+> Death is lighter than a feather. Duty, heavier than a mountain.
 > 
 > **L.Mandragoran**
 >  

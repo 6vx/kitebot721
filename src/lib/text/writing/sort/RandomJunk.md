@@ -7,7 +7,7 @@ Listing some rando jank I've deployed just so I can zip to it quickly. I wouldn'
 
 Input some camera settings and output the length of your timelapse. 
 
-## [deathMetta beta](https://metta.d3l112fu2xzrtu.amplifyapp.com/)
+## deathMetta beta
 ### Svelte, Google Firebase/Firestore, AWS Amplify
 
 This app was essentially a journal backed by Google's firebase. Any daily activity showed up on main page. Adding/changing content was handled in browser, and used Google authentication to restrict access. 
