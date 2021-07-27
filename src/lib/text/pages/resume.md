@@ -2,7 +2,7 @@
 
 ##### [PDF](https://deathmettastorage.s3.us-west-2.amazonaws.com/files/TimGodinResume2021.pdf) - [DOC](https://deathmettastorage.s3.us-west-2.amazonaws.com/files/TimGodinResume2021.docx) - [CSS](https://metta.d3nbkc9rp0l6tb.amplifyapp.com/resume) - [GITHUB](https://github.com/6vx) - [LINKEDIN](https://www.linkedin.com/in/godini/)
 
-tim@kitebot.ca / 825-561-4854
+##### tim@kitebot.ca / 825-561-4854
 
 ## Education
 
