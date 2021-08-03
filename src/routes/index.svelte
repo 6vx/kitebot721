@@ -1,11 +1,13 @@
 <div>
+    <div class="logo">
+        <img src="https://deathmettastorage.s3.us-west-2.amazonaws.com/files/kitebotdoodle128.png" alt="playfabsveltelogo">
+    </div>
     <p>
         Welcome. 
         Looking to take on short term, remote work contracts. 
         Preference to svelte/typescript projects.
     </p>
-    <br>
-    <br>
+    <hr>
     <p>
         Stuff I've been fiddling with lately:
     </p>
@@ -18,3 +20,14 @@
     
 
 </div>
+
+<style>
+    img {
+        height: 128px;
+        width: 128px;
+    }
+    .logo {
+        text-align: center;
+        padding: 10px 10px 10px 10px;
+    }
+</style>
