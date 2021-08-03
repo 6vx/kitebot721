@@ -14,7 +14,7 @@ The 130+MB JSON file downloads. I run my 17 month old script. It fails.
 
 Once again i'm working with a dataset that crashes my editor when I look at it too long, and I'm just trying to get up and running with that to mash it into my other 200,000 entry dictionary and make them compare millions of times. My 2012 i7 weeps softly.
 
-I refactor one script, it executes. On to another. I retrieve the acoompanying data. It executes... but somethings different. 
+I refactor one script, it executes. On to another. I retrieve the accompanying data. It executes... but somethings different. 
 
 Perusing the code I discover I had no fucking idea how to work with Objects. I quickly rewrite key sections. It's **actually better** now. 
 

@@ -14,7 +14,7 @@ I had the revelation that I'd draw every day if I got the Surface GO. I didn't.
 
 Then I decided surely I'd draw every day if I opened my computer to a brand new canvas every day, ready to be doodled upon in even the most lazy attempt at art. 
 
-Enter: Powershell. I made a set of blank, root files for my "canvas.leo" and a daily "journal .md" and this script, after some wrangling, ended up being executed by the windows scheduler somewhat reliably. 
+Enter: Powershell. I made a set of blank, root files for my "canvas.leo" and a daily "journal.md" and this script, after some wrangling, ended up being executed by the windows scheduler somewhat reliably. 
 
 Enter: RCLONE/EC2/BASH. "Somewhat reliably" wasn't good enough. If I turned my computer on later in the day, sometimes it would take a while to execute. Such troublesome behaviour was getting in the way of my zen art habit. 
 

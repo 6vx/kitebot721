@@ -30,7 +30,7 @@ Immediately noticed that the wind came through it more in what was at first an u
 ## [Amazon Goodthreads](https://www.amazon.ca/Goodthreads-Pullover-Fleece-Hoodie-Medium/dp/B07BKVHHL8/ref=sr_1_1?dchild=1&keywords=goodthreads%2Bhoodie&qid=1621714183&sr=8-1&th=1&psc=1)
 
 > 46.40 CAD
-> 
+  >  
 > 90/10 Cotton/Polyester
 
 Excited for this to arrive. Hypothesize that the higher ratio of cotton is going to feel more like my old Roots sweater than the Basics. 

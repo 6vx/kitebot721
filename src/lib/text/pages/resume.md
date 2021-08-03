@@ -44,8 +44,8 @@
 ### Webdev at Kitebot
 #### Calgary AB - 2016-Now
 
-- Moderate experience with Web/HTML/CSS/JS/TS Svelte/CICD/AWS/Git/PowerShell PlayFab/Firebase
-- Some experience with Azure/Vue/Deno/Express Bash/Android/WindowsPhone
+- Moderate experience with HTML/CSS/JS/TS Svelte/CICD/AWS/Git/PowerShell BaaS
+- Some experience with Azure/Vue/Deno/Express Bash/Android/Windows
 - Deploying and maintaining apps on the Web, Alexa and more using popular cloud services including Amazon Web Services and Google Cloud
 - Creating advertising and sales materials using Adobe Photoshop
 - Using Typescript/Javascript and popular frontend frameworks like Svelte and Vue
@@ -107,7 +107,7 @@
 
 ## Certifications
 
-- ProServer (AB)
+- ProServe (AB)
 - SmartServe (ON)
 - National Food Handler's Safety Training Program
 - Forklift 
