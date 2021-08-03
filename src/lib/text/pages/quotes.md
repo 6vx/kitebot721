@@ -1,6 +1,4 @@
 # quotes
-
-### selection of words that caught my ear
  
 > How can one who was once so holy fall so far from righteousness?
 >  

@@ -17,8 +17,6 @@
         <li><a href="https://metta.d2z1xs5jqfi6cq.amplifyapp.com/">word game prototype</a></li>
         <li><a href="https://metta.d2z1xs5jqfi6cq.amplifyapp.com/widgets/runewords2">runeword calculator</a></li>
     </ul>
-    
-
 </div>
 
 <style>
@@ -29,5 +27,8 @@
     .logo {
         text-align: center;
         padding: 10px 10px 10px 10px;
+    }
+    hr {
+        width: 75%;
     }
 </style>

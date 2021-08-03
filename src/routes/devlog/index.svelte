@@ -4,6 +4,8 @@
 </script>
 
 <div class="">
+    <h1>devlog</h1>
+    <hr>
     {#each entries as entry}
     <div class="">
         <li><a href="/devlog/{entry.url}">{entry.title}</a></li>
@@ -14,6 +16,14 @@
 <style>
 li {
     padding: 5px 5px 5px 5px;
+}
+div {
+        text-align: center;
+        list-style-type: none;
+    }
+    hr {
+    width: 50%;
+    margin-bottom: 20px;
 }
 
     

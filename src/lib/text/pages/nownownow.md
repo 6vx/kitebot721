@@ -2,23 +2,23 @@
  
 ## what am I doing right now?
  
-I'm tweaking my website, trying to find the happy balance of dev experience, productivity and cost effectiveness. 
+Working on PlayFab + Svelte demo repository.
  
-- 7/1/2021
+- 8/3/2021
  
 ### short term (2021)
  
-- Athabasca U coursework
-- Workworkwork2021-2024
+- Coursework
+- work2021-2024
     
 ### medium term (t+2-3yr)
  
-- Athabasca U degree
+- Degree ->
 - TKIP/TALK certifications
-- Learn some korean
+- Learn some korean?
  
 ### long term (t+3-6yr)
  
-- be bilingual
+- be bilingual?
 - living/working in Korea
 - more school 
