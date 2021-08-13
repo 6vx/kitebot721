@@ -1,11 +1,7 @@
 # quotes
 
-##### These aren't in any particular order. 
-
-##### Sometimes new ones go at the bottom, sometimes the top. 
-
 > Your inbox is a to-do list made up by other people.
->  
+> 
 > **proverb**
 > 
 > *don't let anyone else dictate your life*
@@ -18,7 +14,7 @@
 > 
 > **proverb**
  
-> How can one who was once so holy fall so far fro  m  righteousness?
+> How can one who was once so holy fall so far from righteousness?
 >  
 > **Paladin**
  
@@ -32,7 +28,7 @@
 >  
 > **E.Hunt**
 >  
-> *I remember walking to G-main one cold night   r  alizing that I was an inevitable expression of the universe.*
+> *I remember walking to G-main one cold night realizing that I was an inevitable expression of the universe.*
 
 > There has never been peace without first a great suffering, the greater the suffering, the greater the peace.
 >   
@@ -71,7 +67,7 @@
 > 
 > **Merovingian**
  
-> The minority has n  e  er been able to control the majority without first denying the majority's humanity, and thereby losing their own.
+> The minority has never been able to control the majority without first denying the majority's humanity, and thereby losing their own.
 > 
 > **S.Colbert**
  
@@ -173,7 +169,7 @@
 > 
 > **T.Eliot**
 > 
-> *I've been feeli  n   this in my bones. Knowing a cycle as it happens, instead of simply living it*
+> *I've been feeling this in my bones. Knowing a cycle as it happens, instead of simply living it*
  
 > It's not good enough to be right, you also have to be effective.
 >  
