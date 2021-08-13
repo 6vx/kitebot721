@@ -1,3 +1,0 @@
-# About Me
-
-Human. Canadian. 

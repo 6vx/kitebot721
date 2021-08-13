@@ -1,1 +1,0 @@
-My mcflurry poops are like giving birth to an inside out animal. 
