@@ -16,7 +16,7 @@
 13 red foreman wearing a plaid shirt 
 14 ram magical sheep 
 15 rahl Lord ruler of D'haran empire
-16 
+16 raise/raze
 17 Rick rockin' wubalubadubdub
 18 Raffi playing guitar for some kids
 19 RIP grim reapbescorting a soul from scene 
@@ -55,4 +55,49 @@
 52 Lenny working the nuclear power plant
 53 Lad?
 54 Lamb?
+55 layla/lolita
+56 lisa
+57 locke
+58 lief/lava
+59 loop lab
+60 sasha
+61 sawyer/sarah
+62 zen
+63 sayid / zedd
+64 sam
+65 cell
+66 sis
+67 socka zoku
+68 sophie
+69 cb
+70 kesha
+71 kiora
+72 gohan
+73 kate
+74 kim
+75 cole
+76 cass
+77 goku
+78 gov giff
+79 kip
+80 fish vaush
+81 fry fairy
+82 flan
+83 fit fat vet
+84 fem fam
+85 phil
+86 fizz vase
+87 vick
+88 fife viv Vivian grey
+89 fabio
+90 bush
+91 Oprah opera
+92 boone
+93 bot Pete beet boat
+94 pam
+95 baal
+96 buzz piss
+97 pig peg bug big
+98 puff bev
+99 Pippy babe
 
