@@ -2,9 +2,9 @@
  
 ## what am I doing right now?
  
-Working on PlayFab + Svelte demo repository.
- 
-- 8/3/2021
+Generating content for in game use, trying to balance work/hobby/study more effectively.
+
+##### 20 08 2021
  
 ### short term (2021)
  
