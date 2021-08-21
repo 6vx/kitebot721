@@ -22,6 +22,9 @@ for (const dirEntry of Deno.readDirSync("./src/lib/text")) {
 
 let pagesDocs:Array<Object> = []
 let devlogDocs:Array<Object> = []
+let booksDocs:Array<Object> = []
+
+
 let pagesDir = './src/lib/text/pages'
 for (const entry of walkSync(pagesDir)) {
     console.log(entry.path);
@@ -56,6 +59,23 @@ for (const entry of walkSync(devlogDir)) {
       devlogDocs.push(entryTitlePushObject)
     }
   }
+
+let booksDir = './src/lib/text/reading'
+for (const entry of walkSync(booksDir)) {
+    console.log(entry.path);
+    let entryTitle = (entry.path.slice(booksDir.length - 1)).slice(0,-3)
+    let entryTitleUrl = (entry.path.slice(booksDir.length - 1)).slice(0,-3).toLowerCase().split(' ').join('_')
+
+    
+    if (entryTitle.length > 1) {
+      let entryTitlePushObject = {path:"",title:"",markdown:"",url:"",html:""}
+        entryTitlePushObject.title = entryTitle.toLowerCase()
+        entryTitlePushObject.path = entry.path
+        entryTitlePushObject.url = entryTitleUrl
+        entryTitlePushObject.markdown = Deno.readTextFileSync(entry.path)
+      booksDocs.push(entryTitlePushObject)
+    }
+  }
 /**
  * write.ts
  */
@@ -71,6 +91,8 @@ for (const entry of walkSync(devlogDir)) {
   
   console.log(writeJson("./src/routes/info/_entries.json", pagesDocs));
   console.log(writeJson("./src/routes/devlog/_entries.json", devlogDocs));
+  console.log(writeJson("./src/routes/books/_entries.json", booksDocs));
+
 
   
   /**
