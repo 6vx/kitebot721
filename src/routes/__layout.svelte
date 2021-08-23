@@ -11,7 +11,7 @@
 </svelte:head>
 
 
-<h1>kite<a href="/info/about">Bot</a></h1>
+<h1>kite<a href="/">Bot</a></h1>
 <p><span><a href="/info">info</a> - <a href="/devlog">devlog</a> - <a href="/info/contact">contact</a> - <a href="/books">reading</a></span></p>
 <slot></slot>
 
