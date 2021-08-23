@@ -9,16 +9,14 @@ Generating content for in game use, trying to balance work/hobby/study more effe
 ### short term (2021)
  
 - Coursework
-- work2021-2024
+- work 2021-2024
     
 ### medium term (t+2-3yr)
  
 - Degree ->
-- TKIP/TALK certifications
-- Learn some korean?
+- TKIP/TALK certs
+- Learn k
  
 ### long term (t+3-6yr)
  
-- be bilingual?
-- living/working in Korea
-- more school 
+- bilingual
