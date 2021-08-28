@@ -10,7 +10,7 @@
 07 jack with shag
 08 chef Ramsay butcher knife
 09 chap (Anton) 
-10 Rashid workin the train
+10 Rashid workin the train, rage, rash on his arm
 11 Richard rahl in all gold (rare) 
 12 Erin running
 13 red foreman wearing a plaid shirt 
@@ -95,7 +95,7 @@
 92 boone
 93 bot Pete beet boat
 94 pam
-95 baal
+95 baal bale ball pail pall
 96 buzz piss
 97 pig peg bug big
 98 puff bev
