@@ -8,7 +8,7 @@
 
 "The Institute" was good enough to get me back into a Stephen King sooner than I normally would. I hope it doesn't backfire. 
 
-His books tend to backfire at the end, so you can't even bail until it's too late usually. 
+His books tend to run out of steam right at the end, so you can't even bail until it's too late usually. 
 
 ## 0
 
