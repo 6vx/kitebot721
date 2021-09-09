@@ -2,9 +2,9 @@
  
 ## what am I doing right now?
  
-Generating content for in game use, trying to balance work/hobby/study more effectively.
+Picking a focus. 
 
-##### 20 08 2021
+##### 09 09 2021
  
 ### short term (2021)
  

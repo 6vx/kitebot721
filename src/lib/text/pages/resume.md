@@ -1,4 +1,4 @@
-# Tim Godin
+# tim[Godin]()
 
 ##### [PDF](https://deathmettastorage.s3.us-west-2.amazonaws.com/files/TimGodinResume2021.pdf) - [DOC](https://deathmettastorage.s3.us-west-2.amazonaws.com/files/TimGodinResume2021.docx) - [GITHUB](https://github.com/6vx) - [LINKEDIN](https://www.linkedin.com/in/godini/)
 
@@ -88,9 +88,6 @@
 - Carrying out detailed daily vehicle inspections
 - Making efforts to build relationships with customers and represent a new local brand
 
-### Inventory Specialist at WIS
-#### Cranbrook BC - 2016
-
 ### Customer Service at Lowe's 
 #### Sarnia ON - 2011-2012
 
@@ -99,12 +96,15 @@
 - Accountable for transactions, sales, inventory maintenance
 - Operating forklifts, balers, compactors and pump trucks
 
+### Inventory Specialist at WIS
+#### Cranbrook BC - 2016
+  &nbsp;  
 ### Inbound Sales at Geek Squad/NCO
 #### Sarnia ON - 2007-2009
-
+  &nbsp;  
 ### Warehouse Associate at Zellers 
 #### Sarnia ON - 2005-2006
-
+  &nbsp;  
 ## Certifications
 
 - ProServe (AB)
