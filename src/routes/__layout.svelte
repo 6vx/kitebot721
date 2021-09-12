@@ -1,5 +1,5 @@
 <script>
-    import {preferences} from '$lib/scripts/localStore'
+    // import {preferences} from '$lib/scripts/localStore'
     import '../styles.css';
 </script>
 
@@ -22,5 +22,4 @@
     p {
         text-align: center;
     }
-    
 </style>

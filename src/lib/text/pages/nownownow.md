@@ -2,7 +2,7 @@
  
 ## what am I doing right now?
  
-Picking a focus. 
+Selecting a focus. 
 
 ##### 09 09 2021
  

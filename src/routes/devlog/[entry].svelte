@@ -20,7 +20,6 @@
 		}
 	};
 
-
 	export async function load({ page, fetch, session, context }) {
         const pageUrl = await page.params.entry
 		const markdownContent = findMarkdown(entries, pageUrl)
@@ -35,7 +34,6 @@
 				}
 		}
 	}
-
 </script>
 
 <script>
@@ -47,13 +45,6 @@
 	<title>{entry}</title>
 </svelte:head>
 
-
 <div class="">
-	<div class="">
-		{@html html}
-	</div>
+	{@html html}
 </div>
-
-<style>
-
-</style>
