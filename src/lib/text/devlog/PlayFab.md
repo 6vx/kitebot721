@@ -1,15 +1,5 @@
 # PlayFab
 
-### first impressions
-
-I like this a lot. Specifically the cloudscript execution but everything else too. 
-
-Authenticating is so simple, almost everything just kinda works. 
-
-I don't know how to get the typings for the JavaScript sdk included. :s
-
-### side project
-
 ## playfab + svelte
 
 I started a separate repository for what I think will be the first of many "boiler-plate-y" components I need to break apart for my svelte project.
@@ -24,6 +14,8 @@ So separate bits, I'll try to keep my own styling out of it and just have a func
 
 ## Next
 
-I want to look at this : https://docs.microsoft.com/en-gb/gaming/playfab/features/automation/actions-rules/quickstart
-https://developer.paypal.com/docs/checkout/
-https://docs.microsoft.com/en-us/gaming/playfab/features/commerce/economy/non-receipt-payment-processing
+I want to look at these: 
+
+- [PlayFab Action Rules](https://docs.microsoft.com/en-gb/gaming/playfab/features/automation/actions-rules/quickstart)
+- [Paypal Docs](https://developer.paypal.com/docs/checkout/)
+- [Payment Processing](https://docs.microsoft.com/en-us/gaming/playfab/features/commerce/economy/non-receipt-payment-processing)
