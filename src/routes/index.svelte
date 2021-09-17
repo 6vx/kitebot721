@@ -2,11 +2,12 @@
     <div class="logo">
         <img src="https://deathmettastorage.s3.us-west-2.amazonaws.com/files/kitebotdoodle128.png" alt="playfabsveltelogo">
     </div>
-    <p>
-        Welcome. 
-        Looking to take on short term, remote work contracts. 
-        Preference to svelte/typescript projects.
-    </p>
+    <div class="midlist">
+    <p>Welcome, thanks for visiting.</p>
+    <p>I'm looking for work that is 100% remote, please contact if you have an opportunity!</p> 
+    <p>Preference to svelte/typescript projects, as I already spend most of my time there and am looking to grow my existing knowledge.</p>
+    </div>
+    <br>
     <hr>
     
     <div class="midlist">
@@ -36,9 +37,9 @@
     hr {
         width: 75%;
     }
-    p {
+    /* p {
         padding: 10px 10px 10px 10px;
-    }
+    } */
     li {
         padding-top: 5px;
     }
