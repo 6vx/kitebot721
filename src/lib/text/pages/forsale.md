@@ -12,7 +12,6 @@
 - Acer 4k HDR Monitor - 500
   - It's beautiful
 - Voice Recorder - 100
-- Steelseries Arctis 7 Wireless Headset - 80
 - Umidigi Bison 128gb Dual Sim - 200
 - Yi 4k Action Cam - 100
 - 12' Cargo Camper/Trailer - 2500

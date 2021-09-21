@@ -1,6 +1,6 @@
 # PlayFab
 
-## playfab + svelte
+## Playfab + Svelte
 
 I started a separate repository for what I think will be the first of many "boiler-plate-y" components I need to break apart for my svelte project.
 
@@ -12,7 +12,7 @@ When I was initially converting the JavaScript example into something usable and
 
 So separate bits, I'll try to keep my own styling out of it and just have a functional X Y and Z for all the major methods. If somebody wants to see an example of something they can just look at/copy the repo. 
 
-## Next
+## Looking Ahead
 
 I want to look at these: 
 

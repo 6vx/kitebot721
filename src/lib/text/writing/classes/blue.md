@@ -1,5 +1,5 @@
 ---
-deity: 'Cunning'
+deity: '교활한'
 passive: 'conjure'
 color: blue
 ---

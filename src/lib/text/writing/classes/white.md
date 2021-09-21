@@ -1,5 +1,5 @@
 ---
-deity: 'Prism'
+deity: '프리즘'
 passive: 'refract'
 color: white
 ---

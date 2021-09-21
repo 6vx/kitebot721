@@ -1,12 +1,12 @@
 ---
-deity: 'Reaper'
+deity: '사신'
 passive: 'ressurect'
 color: black
 ---
 
 # Gawmen
 
-Maintain the illusion of compatriotism whilst wearing down your opponent like the mighty ocean. 
+
 
 ## Class Skill: ressurect
 

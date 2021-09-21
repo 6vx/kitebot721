@@ -19,5 +19,3 @@ I'll connect to people.
 ## Mom
 
 I'll be your friend. 
-
-

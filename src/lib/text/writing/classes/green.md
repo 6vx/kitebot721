@@ -1,5 +1,5 @@
 ---
-deity: 'Moss'
+deity: '이끼'
 passive: 'grow'
 color: green
 ---

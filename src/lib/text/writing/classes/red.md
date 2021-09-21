@@ -1,12 +1,12 @@
 ---
-deity: 'Reaper'
-passive: 'ressurect'
+deity: '용'
+passive: 'incinerate'
 color: red
 ---
 
 # Palgan
 
-Maintain the illusion of compatriotism whilst wearing down your opponent like the mighty ocean. 
+
 
 ## Class Skill: resurrect
 

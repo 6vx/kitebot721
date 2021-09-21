@@ -2,7 +2,7 @@
  
 ## what am I doing right now?
  
-Selecting a focus. 
+Selecting a focus with a clear mind.  
 
 ##### 09 09 2021
  
@@ -20,3 +20,4 @@ Selecting a focus.
 ### long term (t+3-6yr)
  
 - bilingual
+- fewer shoes
