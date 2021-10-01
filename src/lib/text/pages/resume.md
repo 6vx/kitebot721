@@ -21,6 +21,27 @@
 
 ## Experience
 
+### Conductor at CN Rail
+#### Jasper AB - 2019-2020
+
+- Ensuring compliance with all train orders, signals, railroad rules and regulations related to safety and operations
+- Providing and receiving various forms of oral and printed instructions concerning the movement and placement of rail cars
+- Assembling/dismantling trains in the rail yard, and picking up/setting off rail cars en-route
+- Observing, interpreting, and relaying signals to ensure safe train and locomotive movement
+- Operating track switches to change locomotive and rail car routes
+- Inspecting the condition of a train and equipment
+- Making effective decisions when in unfamiliar locations or emergency situations
+- Communicating effectively with the Rail Traffic Control centre, other train crews and other departments on a regular basis via handheld radio
+- Working a flexible schedule with regular and predictable attendance, in line with the 24/7 railroading environment (includes night, weekend, holiday work hours, some overtime, and being away from home for extended periods of time)
+- Pushing, pulling, lifting and carrying up to 90 pounds
+- Working outdoors in varying weather and environmental conditions
+- Operating various devices on rail cars and locomotives, such as uncoupling levers and handbrakes
+- Climbing on and off ladders of moving rail cars
+- Grasping and holding objects while riding the side of a train
+- Walking for frequent extended periods
+- Bending, stooping, squatting, and kneeling frequently
+- Meeting medical fitness requirements for the position, including those established by the Railway Association of Canada, such as the ability to recognize and distinguish between the colors of signals
+
 ### General Manager at FMI Business Group
 #### Sarnia ON - 2008-2016
 
@@ -50,29 +71,6 @@
 - Creating advertising and sales materials using Adobe Photoshop
 - Using Typescript/Javascript and popular frontend frameworks like Svelte and Vue
 - Building continuous integration and deployment workflows using Github and AWS Amplify for fast project iteration
-
-### Conductor at CN Rail
-#### Jasper AB - 2019-2020
-
-- Ensuring compliance with all train orders, signals, railroad rules and regulations related to safety and operations
-- Providing and receiving various forms of oral and printed instructions concerning the movement and placement of rail cars
-- Assembling/dismantling trains in the rail yard, and picking up/setting off rail cars en-route
-- Observing, interpreting, and relaying signals to ensure safe train and locomotive movement
-- Operating track switches to change locomotive and rail car routes
-- Inspecting the condition of a train and equipment
-- Making effective decisions when in unfamiliar locations or emergency situations
-- Communicating effectively with the Rail Traffic Control centre, other train crews and other departments on a regular basis via handheld radio
-- Working a flexible schedule with regular and predictable attendance, in line with the 24/7 railroading environment (includes night, weekend, holiday work hours, some overtime, and being away from home for extended periods of time)
-- Pushing, pulling, lifting and carrying up to 90 pounds
-- Working outdoors in varying weather and environmental conditions
-- Operating various devices on rail cars and locomotives, such as uncoupling levers and handbrakes
-- Climbing on and off ladders of moving rail cars
-- Grasping and holding objects while riding the side of a train
-- Walking for frequent extended periods
-- Bending, stooping, squatting, and kneeling frequently
-- Meeting medical fitness requirements for the position, including those established by the Railway Association of Canada, such as the ability to recognize and distinguish between the colors of signals
-
-## Experience+ 
 
 ### Appliance Installer at Docker
 #### Kelowna BC - 2017-2018
@@ -113,6 +111,7 @@
 - Forklift 
 - WHMIS
 - AODA Training
+- First Aid
 
 ## Skills
 
@@ -132,6 +131,3 @@
 ---
 
 ### References available upon request
-
-
-
