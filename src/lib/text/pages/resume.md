@@ -22,7 +22,7 @@
 ## Experience
 
 ### Conductor at CN Rail
-#### Jasper AB - 2019-2020
+#### Jasper AB - 2018-2019
 
 - Ensuring compliance with all train orders, signals, railroad rules and regulations related to safety and operations
 - Providing and receiving various forms of oral and printed instructions concerning the movement and placement of rail cars
