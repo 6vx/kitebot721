@@ -8,6 +8,7 @@
     <p>Preference to svelte/typescript projects, as I already spend most of my time there and am looking to grow my existing knowledge.</p>
     </div>
     <br>
+    
     <hr>
     
     <div class="midlist">
@@ -21,7 +22,7 @@
         <li><a href="https://metta.d2z1xs5jqfi6cq.amplifyapp.com/widgets/meditation">trying out tailwindCSS</a></li>
 
     </div>
-    
+    <br>
     
 </div>
 

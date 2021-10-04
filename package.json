@@ -30,6 +30,7 @@
   "type": "module",
   "dependencies": {
     "marked": "^2.1.3",
-    "svelte-local-storage-store": "^0.2.3"
+    "svelte-local-storage-store": "^0.2.3",
+    "xlsx": "^0.17.2"
   }
 }
