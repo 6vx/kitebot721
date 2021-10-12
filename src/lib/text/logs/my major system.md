@@ -79,7 +79,7 @@
 76 Cass k, ass, 
 77 goku cake cuck cock coke cuke
 78 gov giff give keif
-79 kip cap cup gap 
+79 kip cap cup gap KIP
 80 fish vaush 
 81 fry very fairy vary ferry 
 82 flan fan van 
